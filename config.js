@@ -17,10 +17,10 @@ const CONFIG = {
   twelveHourFormat: true,
 
   // Greetings
-  greetingMorning: 'Good morning!',
-  greetingAfternoon: 'Good afternoon,',
-  greetingEvening: 'Good evening,',
-  greetingNight: 'Go to Sleep!',
+  greetingMorning: 'Good morning! ',
+  greetingAfternoon: 'Good afternoon, ',
+  greetingEvening: 'Good evening, ',
+  greetingNight: 'Go to Sleep! ',
 
   // Weather
   weatherKey: '0d4f85a576d734031a8bab2d96c7e34e',
@@ -48,7 +48,7 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://outlook.office365.com/mail/',
     },
     {
       id: '3',
@@ -60,7 +60,7 @@ const CONFIG = {
       id: '4',
       name: 'Calendar',
       icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      link: 'https://outlook.office365.com/calendar/view/month',
     },
     {
       id: '5',
