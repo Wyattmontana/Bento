@@ -40,9 +40,9 @@ const CONFIG = {
   cards: [
     {
       id: '1',
-      name: 'Github',
+      name: 'Confluence',
       icon: 'github',
-      link: 'https://github.com/',
+      link: 'https://ipscloud.atlassian.net/wiki/spaces/IS/overview?mode=global',
     },
     {
       id: '2',
@@ -52,9 +52,9 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Todoist',
+      name: 'Jira',
       icon: 'trello',
-      link: 'https://todoist.com',
+      link: 'https://ipscloud.atlassian.net/jira/servicedesk/projects/IPS/queues/custom/36',
     },
     {
       id: '4',
