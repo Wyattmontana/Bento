@@ -12,7 +12,7 @@ const CONFIG = {
 
   // General
   name: 'IT',
-  imageBackground: false,
+  imageBackground: true,
   openInNewTab: true,
   twelveHourFormat: true,
 
@@ -41,7 +41,7 @@ const CONFIG = {
     {
       id: '1',
       name: 'Confluence',
-      icon: 'github',
+      icon: 'book-open',
       link: 'https://ipscloud.atlassian.net/wiki/spaces/IS/overview?mode=global',
     },
     {
@@ -53,7 +53,7 @@ const CONFIG = {
     {
       id: '3',
       name: 'Jira',
-      icon: 'trello',
+      icon: 'zap',
       link: 'https://ipscloud.atlassian.net/jira/servicedesk/projects/IPS/queues/custom/36',
     },
     {
